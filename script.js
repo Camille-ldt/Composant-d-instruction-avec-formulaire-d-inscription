@@ -43,3 +43,9 @@ console.log(containerRight);
     inputButton.value = "Claim your free trial";
     inputContainer.appendChild(inputButton);
 
+    // const inputContent = document.createElement(`text`);
+    // inputContent.type = `text`;
+    // inputContent.id = `inputP`;
+    // inputContent.text = `By clicking the button, you are agreeing to our Terms and Services`;
+    // inputContainer.appendChild(inputContent);
+
